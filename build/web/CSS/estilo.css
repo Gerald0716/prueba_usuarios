@@ -1,0 +1,63 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(../imag/estudio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    
+}
+
+#Cuadro{
+    width:330px;
+    background: #777676;
+    color: #FFFFFF;
+    margin: auto;
+    margin-top: 80px;
+    padding: 5px 10px 30px 10px;
+    border: 28px solid #848782;
+    border-radius: 6px;
+    opacity:0.9
+}
+.titulo {
+    font-size: 30 px;
+    font-family: roboto;
+}
+
+.entrada {
+    width: 320px;
+    height: 35px;
+    border-radius: 6px;
+    font-family: roboto;
+    font-weight: 900;
+}
+
+#boton {
+  
+    width:122px;
+    height: 45px;
+    border-radius: 6px;
+    background: #9FFA7D;
+    color: #000000;
+    font-size:18px ;
+}
+    
+ #Cuadrodos{
+    width:330px;
+    background: #777676;
+    color: #FFFFFF;
+    margin: auto;
+    margin-top: 100px;
+    padding: 5px 10px 30px 10px;
+    border: 28px solid #D6FFBA;
+    border-radius: 6px;
+    opacity:0.9
+}
+
+
+   
+
